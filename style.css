@@ -346,6 +346,10 @@ article .icon {
     cursor: default;
 }
 
+/* CERTIFICATE SECTION */
+#certificates {
+    position: relative;
+}
 
 /* PROJECTS SECTION */
 
